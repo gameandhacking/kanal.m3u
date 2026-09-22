@@ -15,6 +15,8 @@ https://ladyboy.yedektv.cfd//beinmax2/tracks-v1a1/mono.m3u8
 https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=s-sport-2" tvg-logo="" group-title="Spor",Sumqayit S Sport 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=a-spor" tvg-logo="" group-title="Spor",Sumqayit A Spor
+https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT 1 1440p" tvg-id="TRT1 1440p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1440p
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-name="TRT 1 1080p" tvg-id="TRT1 1080p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1080p
@@ -27,7 +29,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="aztv.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/AzTV_(2019).png" group-title="Azerbaijan",AzTv
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV Azerbaycan@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ATV_(2020-h.h.).png" group-title="Azerbaijan",ATV
