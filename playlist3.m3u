@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beINSports1.tr" tvg-id="beIN SPORTS 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="SPOR",beIN SPORTS 1
+https://dga1op10s1u3lea.82250d06d39d38.click/live/beinsports1/playlist.m3u8
