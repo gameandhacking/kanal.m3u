@@ -17,6 +17,8 @@ https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=a-spor" tvg-logo="" group-title="Spor",Sumqayit A Spor
 https://ladyboy.yedektv.cfd//aspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=trt-spor" tvg-logo="" group-title="Spor",Sumqayit TRT Spor
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT 1 1440p" tvg-id="TRT1 1440p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1440p
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-name="TRT 1 1080p" tvg-id="TRT1 1080p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1080p
