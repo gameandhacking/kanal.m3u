@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Spor",Sumqayit Bein Sport 1
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-2" tvg-logo="https://imgur.com/a/zam7xlQ.png" group-title="Spor",Sumqayit Bein Sport 2
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-2" tvg-logo="https://i.imgur.com/DCpgy2V.png" group-title="Spor",Sumqayit Bein Sport 2
 https://ladyboy.yedektv.cfd//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-3" tvg-logo="https://i.imgur.com/X5vo3wT.png" group-title="Spor",Sumqayit Bein Sport 3
+https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-4" tvg-logo="https://i.imgur.com/yrNvQJL.png" group-title="Spor",Sumqayit Bein Sport 4
+https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT 1 1440p" tvg-id="TRT1 1440p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1440p
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-name="TRT 1 1080p" tvg-id="TRT1 1080p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1080p
