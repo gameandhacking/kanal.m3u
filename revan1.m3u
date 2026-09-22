@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Spor",Sumqayit Bein Sport 1
+https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT 1 1440p" tvg-id="TRT1 1440p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1440p
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-name="TRT 1 1080p" tvg-id="TRT1 1080p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 1080p
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-name="TRT 1 720p" tvg-id="TRT1 720p.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 720p
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="aztv.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/AzTV_(2019).png" group-title="Azerbaijan",AzTv
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ATV Azerbaycan@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ATV_(2020-h.h.).png" group-title="Azerbaijan",ATV
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Mədəniyyət Tv.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/M%C9%99d%C9%99niyy%C9%99t_TV_(2019).png" group-title="Azerbaijan",Mədəniyyət Tv
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/xezerrr-removebg-preview.png" group-title="Azerbaijan",Xezer TV
+https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE5My4zNy40NC4zNCIsInVhIjoiIiwiZXhwIjoxNzgyMzMwNDgyLCJqdGkiOiI2YzkwNzc4NGUyM2MxN2NmIn0%3D.VIGvURYytszmwdDt6Yob3YX2jKI47ImL0ZXgN3myXH4%3D
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ictimai-tv-seeklogo.png" group-title="Azerbaijan",Ictimai TV SD
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+#EXTINF:-1 tvg-id="SpaceTV.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Space_TV_loqosu_(2021-2023).png" group-title="Azerbaijan",Space TV
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjA4LjYiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE1My4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE1My4wIiwiZXhwIjoxNzg1ODY1MjA3LCJqdGkiOiIzNTEzZDNhMWM3YzhlMzJjIn0%3D.+bci+oQgGHqjGCFbfpJ7vEPFjziVPW2WnsNZn4I0IUQ%3D
+#EXTINF:-1 tvg-id="DunyaTV.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/D%C3%BCnya_TV__2019-h.h._-removebg-preview.png" group-title="Azerbaijan",Dunya TV
+https://stream.dunyatv.az/live/dunyatv.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Baku_TV__2018_-removebg-preview.png" group-title="Azerbaijan",Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-id="Idman Tv@SD" tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/%C4%B0dman_TV_(2019).png" group-title="Azerbaijan",Idman
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Show_Max.png" group-title="Turkish",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
