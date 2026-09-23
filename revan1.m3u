@@ -53,9 +53,6 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:0,TRT1
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
-#EXTINF:0,TRT 4K
-#EXTVLCOPT:network-caching=1000
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:0,NOW TV
 #EXTVLCOPT:network-caching=1000
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -245,9 +242,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0,TON TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0,TЬRK KL
-#EXTVLCOPT:network-caching=1000
-http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
 #EXTINF:0,TV 41
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
@@ -260,9 +254,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 #EXTINF:0,UR FANATiK TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:0,VAN GOLU TV
-#EXTVLCOPT:network-caching=1000
-https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:0,VUSLAT TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
@@ -322,9 +313,6 @@ https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,BRЬKSEL TЬRK
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:0,ЦNDE TV
-#EXTVLCOPT:network-caching=1000
-https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -408,10 +396,6 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,NTV
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:0,TELE 1
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTVLCOPT:network-caching=1000
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0, KANAL D HD
 #EXTVLCOPT:network-caching=1000
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
@@ -535,9 +519,6 @@ https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2
 #EXTINF:60,HABER GLOBAL
 #EXTVLCOPT:network-caching=1000
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:60,TV 100
-#EXTVLCOPT:network-caching=1000
-https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:30,TVNET
 #EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
