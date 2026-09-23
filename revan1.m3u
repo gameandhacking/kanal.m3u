@@ -284,7 +284,7 @@ https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 #EXTINF:0 tvg-name="TOP POP TV" group-title="Elave", TOP POP TV
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-#EXTINF:0 tvg-name="A V" group-title="Elave", A V
+#EXTINF:0 tvg-name="AVIVA" group-title="Elave", AVIVA
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
 #EXTINF:0 tvg-name="ARMA TV" group-title="Elave", ARMA TV
@@ -661,10 +661,10 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:0 tvg-name="DENiZ POSTASI TV" group-title="Elave", DENiZ POSTASI TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:0 tvg-name=""
+#EXTINF:0 tvg-name="Film" group-title="Elave", Film
 #EXTVLCOPT:network-caching=1000
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:0 tvg-name="D"
+#EXTINF:0 tvg-name="Dizi TV" group-title="Elave", Dizi TV
 #EXTVLCOPT:network-caching=1000
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:0 tvg-name="DOST TV" group-title="Elave", DOST TV
@@ -709,7 +709,7 @@ https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 #EXTINF:0 tvg-name="B" group-title="Elave", B
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8
-#EXTINF:0 tvg-name="BODRUM KENT TV", BODRUM KENT TV
+#EXTINF:0 tvg-name="BODRUM KENT TV" group-title="Elave", BODRUM KENT TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:0 tvg-name="BRTV" group-title="Elave", BRTV
@@ -886,7 +886,7 @@ https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 #EXTINF:0 tvg-name="TOP POP TV" group-title="Elave", TOP POP TV
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-#EXTINF:0 tvg-name="A V" group-title="Elave", A V
+#EXTINF:0 tvg-name="AVIVA" group-title="Elave", AVIVA
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
 #EXTINF:0 tvg-name="ARMA TV" group-title="Elave", ARMA TV
