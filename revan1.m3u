@@ -74,1033 +74,1034 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:0,TRT TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,KANAL 7
+#EXTINF:0,KANAL 7 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,360
+#EXTINF:0,360 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0,TEVE2
+#EXTINF:0,TEVE2 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-#EXTINF:0,TV100
+#EXTINF:0,TV100 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,HALK TV
+#EXTINF:0,HALK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,HABERTURK
+#EXTINF:0,HABERTURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:0,24
+#EXTINF:0,24 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,DOST TV
+#EXTINF:0,DOST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:0, STAR TV HD
+#EXTINF:0, STAR TV HD group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
-#EXTINF:0,DIYANET TV
+#EXTINF:0,DIYANET TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:0,A SPOR
+#EXTINF:0,A SPOR group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aSPOR/aSPOR_1080p.m3u8
-#EXTINF:0,TRT EBA ORTAKUL
+#EXTINF:0,TRT EBA ORTAKUL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT COCUK DIYANET
+#EXTINF:0,TRT COCUK DIYANET group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT AVAZ
+#EXTINF:0,TRT AVAZ group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT KURDI
+#EXTINF:0,TRT KURDI group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT ARABI
+#EXTINF:0,TRT ARABI group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT WORLD
+#EXTINF:0,TRT WORLD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT MUZIK
+#EXTINF:0,TRT MUZIK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:0,EURO D
+#EXTINF:0,EURO D group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:0,TRT TURK
+#EXTINF:0,TRT TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT COCUK
+#EXTINF:0,TRT COCUK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,KANAL 7 AVRUPA
+#EXTINF:0,KANAL 7 AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,TEVE 2
+#EXTINF:0,TEVE 2 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:0,TIVI 6
+#EXTINF:0,TIVI 6 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,HABER GLOBAL
+#EXTINF:0,HABER GLOBAL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:0,KANAL 3
+#EXTINF:0,KANAL 3 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
-#EXTINF:0,KANAL 12
+#EXTINF:0,KANAL 12 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:0,KANAL 15
+#EXTINF:0,KANAL 15 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:0,KANAL 23
+#EXTINF:0,KANAL 23 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:0,KANAL 26
+#EXTINF:0,KANAL 26 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:0,KANAL 33
+#EXTINF:0,KANAL 33 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
-#EXTINF:0,KANAL 34
+#EXTINF:0,KANAL 34 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
-#EXTINF:0,KANAL 53
+#EXTINF:0,KANAL 53 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:0,KANAL 58
+#EXTINF:0,KANAL 58 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-#EXTINF:0,KANAL ADA
+#EXTINF:0,KANAL ADA group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
-#EXTINF:0,KANAL AVRUPA
+#EXTINF:0,KANAL AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:0,KANAL PLUS
+#EXTINF:0,KANAL PLUS group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:0,KANAL URFA
+#EXTINF:0,KANAL URFA group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
-#EXTINF:0,KANAL FIRAT
+#EXTINF:0,KANAL FIRAT group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:0,KOCAEL
+#EXTINF:0,KOCAEL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
-#EXTINF:0,KTV KONYA
+#EXTINF:0,KTV KONYA group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
-#EXTINF:0,LIFE TV
+#EXTINF:0,LIFE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:0,MAVi KARADENiZ TV
+#EXTINF:0,MAVi KARADENiZ TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:0,MERCAN TV
+#EXTINF:0,MERCAN TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
-#EXTINF:0,METROPOL TV
+#EXTINF:0,METROPOL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
-#EXTINF:0,MUGLA TЬRK TV
+#EXTINF:0,MUGLA TЬRK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:0,OLAY TURK
+#EXTINF:0,OLAY TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:0,SUN TV
+#EXTINF:0,SUN TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:0,TARIM TV
+#EXTINF:0,TARIM TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
-#EXTINF:0,TEMPO TV
+#EXTINF:0,TEMPO TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:0,TiVi 6
+#EXTINF:0,TiVi 6 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,TON TV
+#EXTINF:0,TON TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0,TV 41
+#EXTINF:0,TV 41 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:0,TV 52
+#EXTINF:0,TV 52 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-#EXTINF:0,TV 264
+#EXTINF:0,TV 264 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
-#EXTINF:0,UR FANATiK TV
+#EXTINF:0,UR FANATiK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:0,VUSLAT TV
+#EXTINF:0,VUSLAT TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
-#EXTINF:0,RIZE TURK HD
+#EXTINF:0,RIZE TURK HD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:0,ORDU BEL TV
+#EXTINF:0,ORDU BEL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-#EXTINF:0,FiNEST TV
+#EXTINF:0,FiNEST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:0,DAMAR TV
+#EXTINF:0,DAMAR TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-#EXTINF:0,ARABESK TV
+#EXTINF:0,ARABESK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-#EXTINF:0,SILA TV
+#EXTINF:0,SILA TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
-#EXTINF:0,ZEYNO TV
+#EXTINF:0,ZEYNO TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
-#EXTINF:0,DOST TV
+#EXTINF:0,DOST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
-#EXTINF:0,EZO TV
+#EXTINF:0,EZO TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
-#EXTINF:0,TOP POP TV
+#EXTINF:0,TOP POP TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 #EXTINF:0,A V#EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
-#EXTINF:0,ARMA TV
+#EXTINF:0,ARMA TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:0,GENC SMS TV
+#EXTINF:0,GENC SMS TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
-#EXTINF:0,TRT WORLD
+#EXTINF:0,TRT WORLD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT KURDi
+#EXTINF:0,TRT KURDi group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT ARABi
+#EXTINF:0,TRT ARABi group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,SAGLIK CHANEL
+#EXTINF:0,SAGLIK CHANEL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
-#EXTINF:0,HЬR TV
+#EXTINF:0,HЬR TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:0,BRЬKSEL TЬRK
+#EXTINF:0,BRЬKSEL TЬRK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0,TV 8
+#EXTINF:0,TV 8 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:0,KANAL 7
+#EXTINF:0,KANAL 7 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,360 TV
+#EXTINF:0,360 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0,NTV
+#EXTINF:0,NTV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8
-#EXTINF:0,HABER TURK
+#EXTINF:0,HABER TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,24 TV
+#EXTINF:0,24 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,TGRT HABER
+#EXTINF:0,TGRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:0,MINIKA GO
+#EXTINF:0,MINIKA GO group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-#EXTINF:0,TRT COCUK
+#EXTINF:0,TRT COCUK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
-#EXTINF:0,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="SPOR" - TV 8.5
+#EXTINF:0, 8.5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turk" - TV 8.5
 #EXTVLCOPT:network-caching=1000
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:0,A SPOR
+#EXTINF:0,A SPOR group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aSPOR/aSPOR_1080p.m3u8
-#EXTINF:0,TRT SPOR YILDIZ
+#EXTINF:0,TRT SPOR YILDIZ group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://162.212.179.33:80/dvrfl05/gin-trtSPOR2/playlist.m3u8
-#EXTINF:0,EURO D
+#EXTINF:0,EURO D group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:0,TRT TURK
+#EXTINF:0,TRT TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT COCUK
+#EXTINF:0,TRT COCUK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTVLCOPT:network-caching=1000
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:0,KANAL 7 AVRUPA
+#EXTINF:0,KANAL 7 AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,TEVE 2
+#EXTINF:0,TEVE 2 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:0,360
+#EXTINF:0,360 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0,TV 4
+#EXTINF:0,TV 4 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0,TIVI 6
+#EXTINF:0,TIVI 6 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,BIR TV
+#EXTINF:0,BIR TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:0,LIFE TV
+#EXTINF:0,LIFE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,NTV
+#EXTINF:0,NTV group-title="Turk" 
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:0, KANAL D HD
+#EXTINF:0, KANAL D HD group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:0, Film Screen HD
+#EXTINF:0, Film Screen HD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:0, Tabii TV HD
+#EXTINF:0, Tabii TV HD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:60,TRT TURK
+#EXTINF:60,TRT TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:2630,KANAL 7
+#EXTINF:2630,KANAL 7 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:60,360
+#EXTINF:60,360 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:60,TV4
+#EXTINF:60,TV4 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:2700,TV100
-#EXTVLCOPT:network-caching=1000
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:2660,BEYAZ TV
+#EXTINF:2660,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:2700,HALK TV
+#EXTINF:2700,HALK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:60,TRT HABER
+#EXTINF:60,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TGRT HABER
+#EXTINF:0,TGRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:2690,HABERTURK
+#EXTINF:2690,HABERTURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:60,24
+#EXTINF:60,24 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:60,DOST TV
+#EXTINF:60,DOST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:120,DIYANET TV
+#EXTINF:120,DIYANET TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:2690,A SPOR
+#EXTINF:2690,A SPOR group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aSPOR/aSPOR_1080p.m3u8
-#EXTINF:60,TRT EBA ORTAKUL
+#EXTINF:60,TRT EBA ORTAKUL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:43200,TRT AVAZ
+#EXTINF:43200,TRT AVAZ group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT KURDI
+#EXTINF:60,TRT KURDI group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT ARABI
+#EXTINF:60,TRT ARABI group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT WORLD
+#EXTINF:60,TRT WORLD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:60,TRT MUZIK
+#EXTINF:60,TRT MUZIK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:40,ATV
+#EXTINF:40,ATV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:60,EURO D HD SS
+#EXTINF:60,EURO D HD SS group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:60,TRT TURK
+#EXTINF:60,TRT TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:28,KANAL 7 AVRUPA
+#EXTINF:28,KANAL 7 AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:2660,BEYAZ TV
+#EXTINF:2660,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:60,TEVE 2
+#EXTINF:60,TEVE 2 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:60,360
+#EXTINF:60,360 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:60,TV 4
+#EXTINF:60,TV 4 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:24,TIVI 6
+#EXTINF:24,TIVI 6 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:19,BIR TV
+#EXTINF:19,BIR TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:24,LIFE TV
+#EXTINF:24,LIFE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:31,FB TV
+#EXTINF:31,FB TV group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:6,TJK TV
+#EXTINF:6,TJK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:43200,TRT AVAZ
+#EXTINF:43200,TRT AVAZ group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:60,TRT HABER
+#EXTINF:60,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:60,NTV
+#EXTINF:60,NTV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:60,HALK TV
+#EXTINF:60,HALK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:60,HABER GLOBAL
+#EXTINF:60,HABER GLOBAL group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:30,TVNET
+#EXTINF:30,TVNET group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:60,BENGU TURK
+#EXTINF:60,BENGU TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-#EXTINF:24,TGRT HABER HD
+#EXTINF:24,TGRT HABER HD group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:16,TURKHABER
+#EXTINF:16,TURKHABER group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:30,NR1
+#EXTINF:30,NR1 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:29,KRAL POP
+#EXTINF:29,KRAL POP group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:29,NR1 ASK
+#EXTINF:29,NR1 ASK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:30,NR1 DAMAR
+#EXTINF:30,NR1 DAMAR group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:30,NR1 DANCE
+#EXTINF:30,NR1 DANCE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:60,TRT MUZIK
+#EXTINF:60,TRT MUZIK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:60,DREAM TURK
+#EXTINF:60,DREAM TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:33,POWER TURK TAPTAZE
+#EXTINF:33,POWER TURK TAPTAZE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0,KANAL D
+#EXTINF:0,KANAL D group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:0,KANAL 7
+#EXTINF:0,KANAL 7 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:0,NOW TV
+#EXTINF:0,NOW TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:0,360 TV
+#EXTINF:0,360 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:0,TV4
+#EXTINF:0,TV4 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:0,TV 8.5
+#EXTINF:0,TV 8.5 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TGRT HABER
+#EXTINF:0,TGRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:0,ЬLKE TV
+#EXTINF:0,ЬLKE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:0,TV100
-#EXTVLCOPT:network-caching=1000
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:0,HALK TV
+#EXTINF:0,HALK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:0,TELE1
+#EXTINF:0,TELE1 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:0,24 TV
+#EXTINF:0,24 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,BENGЬ TЬRK
+#EXTINF:0,BENGЬ TЬRK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:0,EKOL TV
+#EXTINF:0,EKOL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:0,TH TURK HABER TV
+#EXTINF:0,TH TURK HABER TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF:0,HABER 61
+#EXTINF:0,HABER 61 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:0,EURO D
+#EXTINF:0,EURO D group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0,KANAL 7 AVRUPA
+#EXTINF:0,KANAL 7 AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:0,TRT TЬRK
+#EXTINF:0,TRT TЬRK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT AVAZ
+#EXTINF:0,TRT AVAZ group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT MЬZiK
+#EXTINF:0,TRT MЬZiK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:0,KRAL POP TV FHD
+#EXTINF:0,KRAL POP TV FHD group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:0,DREAM TURK
+#EXTINF:0,DREAM TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:0,NR 1 TURK
+#EXTINF:0,NR 1 TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:0,POWER LOVE
+#EXTINF:0,POWER LOVE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0,NR 1 DAMAR
+#EXTINF:0,NR 1 DAMAR group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
-#EXTINF:0,NR 1 TV
+#EXTINF:0,NR 1 TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:0,POWER TURK
+#EXTINF:0,POWER TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:0,POWER TURK SLOW
+#EXTINF:0,POWER TURK SLOW group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:0,POWER TV AKUSTiK
+#EXTINF:0,POWER TV AKUSTiK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:0,POWER TURK TAPTAZE
+#EXTINF:0,POWER TURK TAPTAZE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0,POWER DANCE
+#EXTINF:0,POWER DANCE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0,ASPOR
+#EXTINF:0,ASPOR group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://trkvz-live.daioncdn.net/aSPOR/aSPOR.m3u8
-#EXTINF:0,FB TV
+#EXTINF:0,FB TV group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:0,MELTEM TV
+#EXTINF:0,MELTEM TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:0,DENiZ POSTASI TV
+#EXTINF:0,DENiZ POSTASI TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:0,D#EXTVLCOPT:network-caching=1000
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:0,DOST TV
+#EXTINF:0,DOST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:0,DiYANET TV
+#EXTINF:0,DiYANET TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:0,LALEGUL TV
+#EXTINF:0,LALEGUL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:0,REHBER TV
+#EXTINF:0,REHBER TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:0,AL ZAHRA TURK TV
+#EXTINF:0,AL ZAHRA TURK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:0,MC TV
+#EXTINF:0,MC TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:0,MUKABELE TV
+#EXTINF:0,MUKABELE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
-#EXTINF:0,TRT COCUK
+#EXTINF:0,TRT COCUK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT D#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TRT D#EXTVLCOPT:network-caching=1000 group-title="Elave"
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TЬRKMENEL
+#EXTINF:0,TЬRKMENEL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
-#EXTINF:0,AKSU TV
+#EXTINF:0,AKSU TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:0,ANADOLUNET TV
+#EXTINF:0,ANADOLUNET TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:0,ARAS TV
+#EXTINF:0,ARAS TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
-#EXTINF:0,B#EXTVLCOPT:network-caching=1000
+#EXTINF:0,B#EXTVLCOPT:network-caching=1000 group-title="Elave"
 https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8
 #EXTINF:0,BODRUM KENT TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
-#EXTINF:0,BRTV
+#EXTINF:0,BRTV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:0,BURSA LiNE TV
+#EXTINF:0,BURSA LiNE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
-#EXTINF:0,CAY TV
+#EXTINF:0,CAY TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:0,З#EXTVLCOPT:network-caching=1000
+#EXTINF:0,З group-title="Elave"
+#EXTVLCOPT:network-caching=1000 
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:0,DERiN TV
+#EXTINF:0,DERiN TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
-#EXTINF:0,D#EXTVLCOPT:network-caching=1000
+#EXTINF:0,D group-title="Elave"
+#EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
-#EXTINF:0,ERC#EXTVLCOPT:network-caching=1000
+#EXTINF:0,ERC group-title="Elave"
+#EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
-#EXTINF:0,ER TV
+#EXTINF:0,ER TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
-#EXTINF:0,ES TV
+#EXTINF:0,ES TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:0,ETV KAYSERi
+#EXTINF:0,ETV KAYSERi group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
-#EXTINF:0,ETV MANiSA
+#EXTINF:0,ETV MANiSA group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
-#EXTINF:0,GRT GAZ#EXTVLCOPT:network-caching=1000
+#EXTINF:0,GRT GAZ group-title="Elave"
+#EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-#EXTINF:0,GUNEYDOGU TV
+#EXTINF:0,GUNEYDOGU TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
-#EXTINF:0,GURBET 24 TV
+#EXTINF:0,GURBET 24 TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
-#EXTINF:0,HUNAT TV
+#EXTINF:0,HUNAT TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:0,iCEL TV
+#EXTINF:0,iCEL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Time 35 TV group-title="Elave"
+#EXTVLCOPT:network-caching=1000
 https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0, Diyar TV group-title="Elave"
+#EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
-#EXTINF:0,KARDELEN TV
+#EXTINF:0,KARDELEN TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
-#EXTINF:0,KANAL 3
+#EXTINF:0,KANAL 3 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
-#EXTINF:0,KANAL 12
+#EXTINF:0,KANAL 12 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:0,KANAL 15
+#EXTINF:0,KANAL 15 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:0,KANAL 19
+#EXTINF:0,KANAL 19 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
-#EXTINF:0,KANAL 23
+#EXTINF:0,KANAL 23 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:0,KANAL 26
+#EXTINF:0,KANAL 26 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:0,KANAL 32
+#EXTINF:0,KANAL 32 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
-#EXTINF:0,KANAL 33
+#EXTINF:0,KANAL 33 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
-#EXTINF:0,KANAL 34
+#EXTINF:0,KANAL 34 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
-#EXTINF:0,KANAL 53
+#EXTINF:0,KANAL 53 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:0,KANAL 58
+#EXTINF:0,KANAL 58 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-#EXTINF:0,KANAL AVRUPA
+#EXTINF:0,KANAL AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:0,KANAL PLUS
+#EXTINF:0,KANAL PLUS group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:0,KANAL URFA
+#EXTINF:0,KANAL URFA group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
-#EXTINF:0,KANAL FIRAT
+#EXTINF:0,KANAL FIRAT group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:0,KOCAEL
+#EXTINF:0,KOCAELI group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
-#EXTINF:0,KTV KONYA
+#EXTINF:0,KTV KONYA group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
-#EXTINF:0,LIFE TV
+#EXTINF:0,LIFE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:0,MAVi KARADENiZ TV
+#EXTINF:0,MAVi KARADENiZ TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:0,MERCAN TV
+#EXTINF:0,MERCAN TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
-#EXTINF:0,METROPOL TV
+#EXTINF:0,METROPOL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
-#EXTINF:0,MUGLA TЬRK TV
+#EXTINF:0,MUGLA TЬRK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:0,OLAY TURK
+#EXTINF:0,OLAY TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:0,SUN TV
+#EXTINF:0,SUN TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:0,TEMPO TV
+#EXTINF:0,TEMPO TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:0,TiVi 6
+#EXTINF:0,TiVi 6 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,TON TV
+#EXTINF:0,TON TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0,TV 52
+#EXTINF:0,TV 52 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-#EXTINF:0,TV 264
+#EXTINF:0,TV 264 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
-#EXTINF:0,UR FANATiK TV
+#EXTINF:0,UR FANATiK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:0,TOKAT TV
+#EXTINF:0,TOKAT TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
-#EXTINF:0,VUSLAT TV
+#EXTINF:0,VUSLAT TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
-#EXTINF:0,RIZE TURK HD
+#EXTINF:0,RIZE TURK HD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:0,ORDU BEL TV
+#EXTINF:0,ORDU BEL TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-#EXTINF:0,FiNEST TV
+#EXTINF:0,FiNEST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:0,ZEYNO TV
+#EXTINF:0,ZEYNO TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
-#EXTINF:0,DOST TV
+#EXTINF:0,DOST TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
-#EXTINF:0,EZO TV
+#EXTINF:0,EZO TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
-#EXTINF:0,TOP POP TV
+#EXTINF:0,TOP POP TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-#EXTINF:0,A V#EXTVLCOPT:network-caching=1000
+#EXTINF:0,A V group-title="Elave"
+#EXTVLCOPT:network-caching=1000
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
-#EXTINF:0,ARMA TV
+#EXTINF:0,ARMA TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:0,TRT WORLD
+#EXTINF:0,TRT WORLD group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT KURDi
+#EXTINF:0,TRT KURDi group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT ARABi
+#EXTINF:0,TRT ARABi group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,SAGLIK CHANEL
+#EXTINF:0,SAGLIK CHANEL group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
-#EXTINF:0,HЬR TV
+#EXTINF:0,HЬR TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:0,BELEMTЬRK
+#EXTINF:0,BELEMTЬRK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
-#EXTINF:0,BRЬKSEL TЬRK
+#EXTINF:0,BRЬKSEL TЬRK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0,KANAL 7
+#EXTINF:0,KANAL 7 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,360 TV
+#EXTINF:0,360 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0,HABER TURK
+#EXTINF:0,HABER TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,24 TV
+#EXTINF:0,24 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,TGRT HABER
+#EXTINF:0,TGRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:0,TABII TV
+#EXTINF:0,TABII TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:0,EURO D
+#EXTINF:0,EURO D group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:0,TRT TURK
+#EXTINF:0,TRT TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT COCUK
+#EXTINF:0,TRT COCUK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,KANAL 7
+#EXTINF:0,KANAL 7 group-title="Turk"
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTVLCOPT:network-caching=1000
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:0,KANAL 7 AVRUPA
+#EXTINF:0,KANAL 7 AVRUPA group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,TEVE 2
+#EXTINF:0,TEVE 2 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:0,360
+#EXTINF:0,360 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0,TV 4
+#EXTINF:0,TV 4 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0,TIVI 6
+#EXTINF:0,TIVI 6 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,LIFE TV
+#EXTINF:0,LIFE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:0,FB TV
+#EXTINF:0,FB TV group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,NTV
+#EXTINF:0,NTV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:0,HALK TV
+#EXTINF:0,HALK TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:0,HABER GLOBAL
+#EXTINF:0,HABER GLOBAL group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:0,BENGU TURK
+#EXTINF:0,BENGU TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-#EXTINF:0,TGRT HABER HD
+#EXTINF:0,TGRT HABER HD group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:0,TURKHABER
+#EXTINF:0,TURKHABER group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:0,NR1
+#EXTINF:0,NR1 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:0,KRAL POP
+#EXTINF:0,KRAL POP group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:0,NR1 ASK
+#EXTINF:0,NR1 ASK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:0,NR1 DAMAR
+#EXTINF:0,NR1 DAMAR group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:0,NR1 DANCE
+#EXTINF:0,NR1 DANCE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:0,NR1 FASHION ONE
+#EXTINF:0,NR1 FASHION ONE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:0,TRT MUZIK
+#EXTINF:0,TRT MUZIK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,DREAM TURK
+#EXTINF:0,DREAM TURK group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:0,POWER TURK TAPTAZE
+#EXTINF:0,POWER TURK TAPTAZE group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:1,Zarok TV Kьrtзe
+#EXTINF:1,Zarok TV Kьrtзe group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:0,KANAL D
+#EXTINF:0,KANAL D group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:0,STAR TV
+#EXTINF:0,STAR TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:0,SHOW TV
+#EXTINF:0,SHOW TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.171:9981/stream/channelid/569904314?profile=htsp
-#EXTINF:0,BEYAZ TV
+#EXTINF:0,BEYAZ TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0,TV 8
+#EXTINF:0,TV 8 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:0,KANAL 7
+#EXTINF:0,KANAL 7 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,360 TV
+#EXTINF:0,360 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0,NTV
+#EXTINF:0,NTV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
-#EXTINF:0,HABER TURK
+#EXTINF:0,HABER TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
-#EXTINF:0,CNN TURK
+#EXTINF:0,CNN TURK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8
-#EXTINF:0,TRT HABER
+#EXTINF:0,TRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,24 TV
+#EXTINF:0,24 TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,TGRT HABER
+#EXTINF:0,TGRT HABER group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
-#EXTINF:0,TABII TV
+#EXTINF:0,TABII TV group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:0,CINE 1
+#EXTINF:0,CINE 1 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:0,MINIKA GO
+#EXTINF:0,MINIKA GO group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
-#EXTINF:0,TRT COCUK
+#EXTINF:0,TRT COCUK group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:0,A2
+#EXTINF:0,A2 group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:0,DMAX
+#EXTINF:0,DMAX group-title="Turk"
 #EXTVLCOPT:network-caching=1000
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
-#EXTINF:0,TLC
+#EXTINF:0,TLC group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
-#EXTINF:0,TAGESSCHAU 24
+#EXTINF:0,TAGESSCHAU 24 group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
-#EXTINF:0,NDR
+#EXTINF:0,NDR group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:0,MAKKAH TV
+#EXTINF:0,MAKKAH TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:0,MADINAH TV
+#EXTINF:0,MADINAH TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_600000=2-mp4a_145600_ara=3.m3u8
-#EXTINF:0,TRT SPOR
+#EXTINF:0,TRT SPOR group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp
-#EXTINF:0,A SPOR
+#EXTINF:0,A SPOR group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:0,5 HD.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="ULUSAL" - TV 8bucuk
+#EXTINF:0, TV8.5 HD "tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Turk" - TV 8.5
 #EXTVLCOPT:network-caching=1000
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:0,TRT SPOR YILDIZ
+#EXTINF:0,TRT SPOR YILDIZ group-title="Spor"
 #EXTVLCOPT:network-caching=1000
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2145/index.m3u8
 
