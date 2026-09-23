@@ -50,9 +50,6 @@ https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Show_Max.png" group-title="Turkish",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTM3U
-#EXTINF:0,TRT1
-#EXTVLCOPT:network-caching=1000
-http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
 #EXTINF:0,NOW TV
 #EXTVLCOPT:network-caching=1000
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -848,9 +845,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0,TON TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0,TV 48
-#EXTVLCOPT:network-caching=1000
-https://ajansplay.com:5443/ULUSALApp/streams/tv48.m3u8
 #EXTINF:0,TV 52
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
@@ -1025,9 +1019,6 @@ http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:1,Zarok TV Kьrtзe
 #EXTVLCOPT:network-caching=1000
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:0,TRT1
-#EXTVLCOPT:network-caching=1000
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,KANAL D
 #EXTVLCOPT:network-caching=1000
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
@@ -1064,9 +1055,6 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,24 TV
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,TV NET
-#EXTVLCOPT:network-caching=1000
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0,TGRT HABER
 #EXTVLCOPT:network-caching=1000
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
