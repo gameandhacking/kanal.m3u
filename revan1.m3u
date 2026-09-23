@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Spor" – Setanta 1
+#EXTINF:0, tvg-name="Setanta 1" like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Spor" – Setanta 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:0, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Spor" – Setanta 2
+#EXTINF:0,tvg-name="Setanta 2" like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Spor" – Setanta 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/235/index.m3u8
