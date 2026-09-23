@@ -492,7 +492,7 @@ https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:24,LIFE TV group-title="Elave"
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:31,FB TV group-title="Spor"
+#EXTINF:31,group-title="Spor", FB TV
 #EXTVLCOPT:network-caching=1000
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:6,TJK TV group-title="Elave"
