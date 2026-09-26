@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,Zirve
+#EXTVLCOPT:http-referrer=https://player.taraftarium24bjk18.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+https://19x.t24hls11.cfd/zirve/mono.m3u8
